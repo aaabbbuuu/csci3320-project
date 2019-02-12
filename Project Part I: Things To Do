@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+  <html>
+    <body>
+      <h3> <strong> Identify Requirements </strong> </h3>
+        <ul>
+          <li>Functional Requirements</li>
+          <li>Non-Functional Requirements </li>
+          <li>Use-Cases / Diagram </li>
+          <li>UI for Use-Cases </li>
+      </ul>
+    </body>
+</html>
